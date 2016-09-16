@@ -1,0 +1,44 @@
+.centro {
+	text-align: center;
+	position: center;
+}
+
+.ediciontitle {
+	font-family: 'Coming Soon', cursive;
+	font-size: 4em;
+	color: #2E2EFE;
+}
+
+.radio {
+	width: 200px;
+    height: 200px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    position: relative;
+    left: 270px;
+}
+
+.color1 {
+	background-color: #FE2E64; 
+}
+
+.color2 {
+	background-color: #00FF00;
+	left: 75px;
+}
+
+.color3 {
+	background-color: #6A0888;
+	left: -100px;
+}
+
+.border {
+	border: 4px solid #000000;
+}
+
+
+
+.separacion {
+	margin-top: 5%;
+	margin-bottom: 2%
+}
